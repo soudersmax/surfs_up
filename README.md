@@ -10,11 +10,11 @@ Provide a bulleted list with three major points from the two analysis deliverabl
 
 - The average temperature in June is about 75 degrees Fahrenheit, with a range of about +/- 10 degrees
 
-  ![](Resources\june_temps.PNG)
+  ![]("Resources\june_temps.PNG")
 
 - The average temperature in December is only a little cooler than  June (at 71 degrees Fahrenheit), but the minimum temperature was much lower, at 56 degrees Fahrenheit.
 
-  ![](Resources\dec_temps.PNG)
+  ![]("Resources\dec_temps.PNG")
 
 - Though the minimum temperature in December is 15 degrees lower than the average, 75% of the temperatures are much warmer, as denoted by the fact that the 25th percentile is 69 degrees.
 
